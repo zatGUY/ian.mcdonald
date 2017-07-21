@@ -1,0 +1,30 @@
+h3{
+	color:blue;
+	text-align:center;
+}
+
+p{
+	color:green;
+}
+
+p.a12{
+	color:red;
+}
+
+ul{
+	color:green;
+}
+
+a{
+	color:purple;
+}
+
+div.c22{
+	border:20px purple solid;
+	background-color:gray;
+}
+
+div{
+	border:12px red dashed;
+	background-color:blue;
+}

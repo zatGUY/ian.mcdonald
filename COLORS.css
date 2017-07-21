@@ -1,0 +1,17 @@
+h4{
+	text-align:center;
+	color:blue;
+}
+
+p{
+	color:red;
+}
+
+div{
+	border: solid blue;
+}
+	
+.a1{
+	height:250px;
+	width: 125px;
+}
